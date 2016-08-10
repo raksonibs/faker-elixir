@@ -2,7 +2,7 @@ defmodule Faker.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :faker,
+    [app: :faker_elixir,
      version: "0.0.1",
      elixir: "~> 1.3",
      description: "Faker file for creating fake data",
