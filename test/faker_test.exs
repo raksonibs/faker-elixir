@@ -7,7 +7,7 @@ defmodule FakerTest do
   end
 
   test "word returns a word" do 
-    word_returned = Faker.word() 
+    word_returned = Faker.String.word() 
     assert String.valid?(word_returned) == true
   end
 end
