@@ -22,3 +22,6 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+## Usage
+
+Call `Faker.word` or `Faker.paragraph/1` in your application to receive fake text data.
