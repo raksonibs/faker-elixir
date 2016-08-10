@@ -1,0 +1,2 @@
+defmodule Faker do
+end
